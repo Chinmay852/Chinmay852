@@ -50,7 +50,7 @@
 ---
 
 ## 📌 Featured Projects
-- [Netflix Clone](https://github.com/Chinmay852/Netflix-Clone) — My first Web Dev project  
+- [Netflix Clone](https://github.com/Chinmay852/Netflix-Clone) — My first Web Dev project [View Project](https://chinmay852.github.io/Netflix-Clone/ )  
 - [MatchMaster](https://github.com/Chinmay852/MatchMaster) — Java-based game where matching numbers win 🎯  
 
 ---
