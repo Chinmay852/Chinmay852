@@ -17,9 +17,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools  
 ## 🛠️ Technologies & Tools
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -32,29 +30,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
-</p>
-
 
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Chinmay852&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay852&layout=compact&theme=radical" height="170" />
-</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-- [**Netflix Clone**](https://github.com/Chinmay852/Netflix-Clone) — My first Web Development project 🎬  
+- [**Netflix Clone**](https://github.com/Chinmay852/Netflix-Clone) — My first Web Development project [View_Project](https://chinmay852.github.io/Netflix-Clone/)  
 - **MatchMaster** — Java-based game where matching numbers win 🎯  
 
 ---
 
 ## 🤝 Connect With Me  
-<p align="center">
   <a href="mailto:chinmaysatam809@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -64,7 +58,6 @@
   <a href="https://github.com/Chinmay852">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
 
 <!-- Footer -->
 <p align="center">
