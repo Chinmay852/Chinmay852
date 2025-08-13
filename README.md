@@ -30,6 +30,7 @@
 ---
 
 ## 📌 Featured Projects
+- Netflix_Clone by css (https://github.com/Chinmay852/Netflix-Clone)
 - [**MatchMaster**](https://github.com/Chinmay852/MatchMaster) — My first Java-based game where matching numbers win 🎯  
 - *(Add more projects here as you build them!)*
 
