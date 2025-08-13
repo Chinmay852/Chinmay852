@@ -19,8 +19,9 @@
 
 ## 🛠️ Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,git,github,vscode,postman,powerbi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,react,mysql,mongodb,git,vscode,powerbi" />
 </p>
+
 
 ---
 
