@@ -38,8 +38,13 @@
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
 - Data Visualization (Power BI, Python)  
-- SQL for Data Retrieval & Analysis  
-
+- SQL for Data Retrieval & Analysis
+  
+## 💻 Web Development Skills
+- Frontend: HTML5, CSS3, JavaScript, React.js  
+- Backend: Node.js, Express.js  
+- Databases: MySQL, MongoDB  
+- Tools: Git, VS Code  
 ---
 
 ## 📈 GitHub Stats
