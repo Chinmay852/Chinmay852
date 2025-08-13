@@ -49,7 +49,7 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay852&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay852&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay852&layout=compact&theme=radical" height="165" />
 </p>
 
@@ -64,10 +64,7 @@
 ## 📬 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/chinmayai080502/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
- <a href="mailto:chinmaysatam852@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
-</a>
-
+  <a href="mailto:chinmaysatam852@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" /></a>
   <a href="https://github.com/Chinmay852"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" /></a>
 </p>
 
