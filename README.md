@@ -30,9 +30,8 @@
 ---
 
 ## 📌 Featured Projects
-- [**Netflix_Clone**]_(https://github.com/Chinmay852/Netflix-Clone) - My first Web Dev Project
-- [**MatchMaster**](https://github.com/Chinmay852/MatchMaster) — My first Java-based game where matching numbers win 🎯  
-- *(Add more projects here as you build them!)*
+- [**Netflix_Clone**](https://github.com/Chinmay852/Netflix-Clone) - My first Web Dev Project
+- [**MatchMaster**](https://github.com/Chinmay852/MatchMaster) - My first Java-based game where matching numbers win 🎯  
 
 ---
 
