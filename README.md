@@ -5,32 +5,23 @@
 
 <!-- Intro -->
 <p align="center">
-  <em>AI & Data Science Graduate | Web Development Enthusiast | Data Analyst</em>
+  <em>AI & Data Science Graduate 🎓 | Web Development & Python Enthusiast 🌐🐍 | Power BI & Analytics 📊</em>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 - 🎓 **AI & Data Science Graduate** from Mumbai University  
-- 📚 Currently learning **Web Development & Python**  
+- 🌱 Currently learning **Web Development & Python**  
 - 📊 Skilled in **Power BI & Data Analytics**  
-- 💡 Passionate about turning raw data into **clean, user-friendly, data-driven solutions**  
+- 💡 Passionate about turning ideas into **clean, user-friendly, data-driven solutions**  
 
 ---
 
 ## 🛠️ Technologies & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,python,vscode,git,powerbi" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,python,java,git,github,vscode,postman,powerbi,figma" />
 </p>
-
----
-
-## 📈 Analytical Skills  
-- Data cleaning & transformation  
-- Building interactive dashboards in **Power BI**  
-- Data visualization & storytelling  
-- Extracting insights from large datasets  
-- Problem-solving with data-driven approaches  
 
 ---
 
@@ -44,12 +35,12 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Netflix Clone](https://github.com/Chinmay852)** — *My first Web Development project, replicating Netflix UI & design.*  
-🔹 **[MatchMaster](https://github.com/Chinmay852)** — *Java-based game where matching numbers win.*  
+- [**Netflix Clone**](https://github.com/Chinmay852/Netflix-Clone) — My first Web Development project, replicating Netflix UI & design 🎬  
+- [**MatchMaster**](https://github.com/Chinmay852) — Java-based game where matching numbers win 🎯  
 
 ---
 
-## 🤝 Let's Connect!  
+## 🤝 Connect With Me  
 <p align="center">
   <a href="mailto:chinmaysatam809@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -66,5 +57,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=footer&reversal=true" />
 </p>
