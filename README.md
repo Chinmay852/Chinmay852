@@ -6,7 +6,7 @@
 
 ---
 
- # Hi there, I'm Chinmay Satam 👋
+ ## 👨‍💻 About Me
 🎓 AI & Data Science Graduate  
 🌐 Currently learning Web Development & Python  
 📊 Skilled in **Power BI** & **Data Analytics**  
@@ -64,7 +64,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=Hi%20I'm%20Chinmay%20Satam!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-=gmail&logoColor=white)](mailto:chinmaysatam809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chinmayai080502/)
