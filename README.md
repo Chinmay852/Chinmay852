@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=230&section=header&text=Hi%20I'm%20Chinmay%20Satam!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Intro -->
 <p align="center">
   <em>AI & Data Science Graduate 🎓 | Web Development & Python Enthusiast 🌐🐍 | Power BI & Analytics 📊</em>
 </p>
@@ -11,16 +10,16 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **AI & Data Science Graduate** from Mumbai University  
-- 🌱 Currently learning **Web Development & Python**  
+- 🎓 AI & Data Science Graduate from Mumbai University  
+- 🌱 Currently learning **Web Development** & **Python**  
 - 📊 Skilled in **Power BI & Data Analytics**  
-- 💡 Passionate about turning ideas into **clean, user-friendly, data-driven solutions**  
+- 💡 Turning ideas into clean, user-friendly solutions  
 
 ---
 
 ## 🛠️ Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,python,java,git,github,vscode,postman,powerbi,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,git,github,vscode,postman,powerbi" />
 </p>
 
 ---
@@ -35,8 +34,8 @@
 
 ## 🚀 Featured Projects  
 
-- [**Netflix Clone**](https://github.com/Chinmay852/Netflix-Clone) — My first Web Development project, replicating Netflix UI & design 🎬  
-- [**MatchMaster**](https://github.com/Chinmay852) — Java-based game where matching numbers win 🎯  
+- [**Netflix Clone**](https://github.com/Chinmay852/Netflix-Clone) — My first Web Development project 🎬  
+- **MatchMaster** — Java-based game where matching numbers win 🎯  
 
 ---
 
@@ -52,8 +51,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <!-- Footer -->
 <p align="center">
