@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=Hi%20I'm%20Chinmay%20Satam!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:00FFD5&height=200&section=header&text=Hi%20I'm%20Chinmay%20Satam!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <em>AI & Data Science Graduate 🎓 | Web Development & Python Enthusiast 🌐🐍 | Power BI & Analytics 📊</em>
@@ -49,8 +50,8 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay852&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay852&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay852&show_icons=true&theme=tokyonight&title_color=00C9FF&icon_color=00FFD5&text_color=ffffff&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay852&layout=compact&theme=tokyonight&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" height="165" />
 </p>
 
 ---
@@ -71,5 +72,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:00FFD5&height=120&section=footer" />
 </p>
