@@ -56,8 +56,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [Portfolio Website](#) – My personal portfolio showcasing projects and skills  
-- [Data Analytics Dashboard](#) – Business insights dashboard built with Power BI  
+[Netflix_Clone](https://chinmay852.github.io/Netflix-Clone/ ) Project of building Netflix CLone using HTML and CSS
 
 ---
 
