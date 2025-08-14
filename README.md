@@ -34,18 +34,16 @@
 </p>
 
 ---
+## 🛠️ Skills
 
-## 📊 Analytical Skills
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization (Power BI, Python)  
-- SQL for Data Retrieval & Analysis
-  
-## 💻 Web Development Skills
-- Frontend: HTML5, CSS3, JavaScript, React.js  
-- Backend: Node.js, Express.js  
-- Databases: MySQL, MongoDB  
-- Tools: Git, VS Code  
+| 📊 Analytical Skills | 💻 Web Development Skills |
+| -------------------- | ------------------------- |
+| Data Cleaning & Transformation | **Frontend**: HTML5, CSS3, JavaScript, React.js |
+| Exploratory Data Analysis (EDA) | **Backend**: Node.js, Express.js |
+| Data Visualization (Power BI, Python) | **Databases**: MySQL, MongoDB |
+| SQL for Data Retrieval & Analysis | **Tools**: Git, VS Code |
+
+
 ---
 
 ## 📈 GitHub Stats
@@ -57,7 +55,7 @@
 ---
 
 ## 🚀 Featured Projects
-[Netflix_Clone](https://chinmay852.github.io/Netflix-Clone/ ) Project of building Netflix CLone using HTML and CSS [Repository](https://github.com/Chinmay852/Netflix-Clone)
+[Netflix_Clone](https://chinmay852.github.io/Netflix-Clone/ ) Project of building Netflix CLone using HTML and CSS [Github_Repository](https://github.com/Chinmay852/Netflix-Clone)
 
 ---
 
