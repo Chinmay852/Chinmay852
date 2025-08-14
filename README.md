@@ -56,7 +56,7 @@
 ---
 
 ## 🚀 Featured Projects
-[Netflix_Clone](https://chinmay852.github.io/Netflix-Clone/ ) Project of building Netflix CLone using HTML and CSS
+[Netflix_Clone](https://chinmay852.github.io/Netflix-Clone/ ) Project of building Netflix CLone using HTML and CSS [Repository](https://github.com/Chinmay852/Netflix-Clone)
 
 ---
 
