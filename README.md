@@ -64,7 +64,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/chinmayai080502/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
   <a href="mailto:chinmaysatam852@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" /></a>
-  <a href="https://github.com/Chinmay852"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" /></a>
+  <a href="https://github.com/Chinmay852"><img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/github.png" width="40" /></a>
 </p>
 
 ---
