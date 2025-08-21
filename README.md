@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <em>AI & Data Science Graduate 🎓 | Web Development & Python Enthusiast 🌐🐍 | Power BI & Analytics 📊</em>
+  <em>AI ML Engineer | 🌐 Web Development & Python Enthusiast 🐍 | Power BI & Data Analytics 📊</em>
 </p>
 
 ---
