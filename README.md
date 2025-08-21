@@ -14,7 +14,7 @@
 🎓 AI & Data Science Engineer | 📊 Aspiring Data Analyst & Web Developer  
 💡 Passionate about building intelligent solutions, crafting clean websites, and uncovering insights from data.  
 📍 Based in Mumbai, India <br>
-🔗 <a href="https://drive.google.com/file/d/1ydiRlVbVV_PzW_eHepnFnE_BO9uIjRgO/view?usp=drive_link">View My Resume</a>
+🔗 <a href="https://drive.google.com/file/d/1nyZlYEQJhew0OaAqajBlmByZ4j2OjJvp/view?usp=drive_link">View My Resume</a>
 
 ---
 
